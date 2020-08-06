@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MomstersApp/static/css/main.83afed7c.chunk.css",
+    "main.js": "/MomstersApp/static/js/main.3c1c591d.chunk.js",
+    "main.js.map": "/MomstersApp/static/js/main.3c1c591d.chunk.js.map",
+    "runtime-main.js": "/MomstersApp/static/js/runtime-main.bfe4d1e9.js",
+    "runtime-main.js.map": "/MomstersApp/static/js/runtime-main.bfe4d1e9.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/MomstersApp/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/MomstersApp/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/MomstersApp/index.html",
+    "precache-manifest.ecbf8b723957114c1c4f02095ead20af.js": "/MomstersApp/precache-manifest.ecbf8b723957114c1c4f02095ead20af.js",
+    "service-worker.js": "/MomstersApp/service-worker.js",
+    "static/css/main.83afed7c.chunk.css.map": "/MomstersApp/static/css/main.83afed7c.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/MomstersApp/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe4d1e9.js",
+    "static/js/2.1b35cb52.chunk.js",
+    "static/css/main.83afed7c.chunk.css",
+    "static/js/main.3c1c591d.chunk.js"
+  ]
+}
